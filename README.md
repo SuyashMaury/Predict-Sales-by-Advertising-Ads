@@ -5,8 +5,11 @@ The objective of our project is to develop a ML regression model based on budget
 
 # Build with
 Pandas
+
 Plotly
+
 Scikit-Learn
+
 Seaborn
 
 # Features
