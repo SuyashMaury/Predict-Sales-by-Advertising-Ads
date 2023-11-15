@@ -11,7 +11,11 @@ Seaborn
 
 # Features
 TV
+
 Radio
+
 Newspaper
+
 # Target
+
 Sales budget in thousands of dollar
