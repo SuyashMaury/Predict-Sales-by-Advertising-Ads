@@ -13,11 +13,11 @@ Scikit-Learn
 Seaborn
 
 # Features
-TV
+TV-Spend on TV advertisement.
 
-Radio
+Radio-Spend on radio advertisement.
 
-Newspaper
+Newspaper-Spend on newspaper advertisement.
 
 # Target
 
